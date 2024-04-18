@@ -8,8 +8,5 @@
   },
   "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gdrtyui/reprehenderit-ratione-aut-dolore.git"
-  }
+  "repository": "git+https://github.com/gdrtyui/reprehenderit-ratione-aut-dolore.git"
 }
